@@ -1,1 +1,4 @@
+小小自用的clash游戏进程匹配规则集
+引用连接：
+type请使用“c”
 https://raw.githubusercontent.com/0xqfz0/gamerules/main/game.yaml
