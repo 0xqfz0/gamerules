@@ -1,3 +1,8 @@
+#小小自用规则
+
 payload:
   - PROCESS-NAME,r5apex.exe
+  - PROCESS-NAME,2042.exe
+  - PROCESS-NAME,EAC.exe
+  - PROCESS-NAME,EA.exe
   - PROCESS-NAME,Link2EA.exe
