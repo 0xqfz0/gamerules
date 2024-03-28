@@ -2,7 +2,8 @@
 
 payload:
   - PROCESS-NAME,r5apex.exe
-  - PROCESS-NAME,2042.exe
-  - PROCESS-NAME,EAC.exe
+  - PROCESS-NAME,BF2042.exe
+  - PROCESS-NAME,BF2042Trial.exe
+  - PROCESS-NAME,EAAntiCheat.GameServiceLauncher.exe
   - PROCESS-NAME,EA.exe
-  - PROCESS-NAME,Link2EA.exe
+  - PROCESS-NAME,NFS.exe
