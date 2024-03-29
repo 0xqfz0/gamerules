@@ -1,9 +1,9 @@
 #小小自用规则
 
 payload:
-  - PROCESS-NAME,r5apex.exe
-  - PROCESS-NAME,BF2042.exe
-  - PROCESS-NAME,BF2042Trial.exe
-  - PROCESS-NAME,EAAntiCheat.GameServiceLauncher.exe
-  - PROCESS-NAME,EA.exe
-  - PROCESS-NAME,NFS.exe
+  - PROCESS-NAME,r5apex
+  - PROCESS-NAME,BF2042
+  - PROCESS-NAME,BF2042Trial
+  - PROCESS-NAME,EAAntiCheat.GameServiceLauncher
+  - PROCESS-NAME,TheFinal
+  - PROCESS-NAME,NFSUB
