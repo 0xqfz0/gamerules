@@ -1,9 +1,13 @@
 #小小自用规则
 
 payload:
+  - PROCESS-NAME,EasyAntiCheat_launcher
   - PROCESS-NAME,r5apex
+  - PROCESS-NAME,r5apex_dx12
   - PROCESS-NAME,BF2042
   - PROCESS-NAME,BF2042Trial
   - PROCESS-NAME,EAAntiCheat.GameServiceLauncher
-  - PROCESS-NAME,TheFinal
-  - PROCESS-NAME,NFSUB
+  - PROCESS-NAME,NeedForSpeedUnbound
+  - PROCESS-NAME,NeedForSpeedUnboundTrial
+  - PROCESS-NAME,Link2EA
+  - PROCESS-NAME,EADesktop
