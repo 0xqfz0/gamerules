@@ -31,7 +31,6 @@ payload:
   - DOMAIN-SUFFIX,starcraft2.com
   - DOMAIN-SUFFIX,worldofwarcraft.com
   - DOMAIN-SUFFIX,wow.nosdn.127.net
-  - DOMAIN-SUFFIX,wowchina.com
   - DOMAIN-SUFFIX,anthemgame.com
   - DOMAIN-SUFFIX,anthemthegame.com
   - DOMAIN-SUFFIX,apexlegends.com
@@ -423,7 +422,6 @@ payload:
   - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,valvesoftware.com
   - DOMAIN-SUFFIX,wmsjsteam.com
-  - DOMAIN-SUFFIX,steamchina.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,steamusercontent.com
